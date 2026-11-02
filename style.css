@@ -1,0 +1,15 @@
+body{
+font-family:Arial;
+text-align:center;
+background:#f1f1f1;
+}
+
+.container{
+margin-top:100px;
+}
+
+button{
+padding:12px 30px;
+margin:10px;
+font-size:18px;
+}
